@@ -2,7 +2,7 @@
 
 This is developement repository = ALL PRs and ISSUEs HERE!
 
-[![Build Status](https://img.shields.io/travis/Pehapkari/Pehapkari.svg?style=flat-square)](https://travis-ci.org/Pehapkari/Pehapkari)
+[![Build Status](https://img.shields.io/travis/pehapkari/Pehapkari.svg?style=flat-square)](https://travis-ci.org/pehapkari/Pehapkari)
 [![Quality Score](https://img.shields.io/scrutinizer/g/Pehapkari/Pehapkari.svg?style=flat-square)](https://scrutinizer-ci.com/g/Pehapkari/Pehapkari)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Pehapkari/Pehapkari.svg?style=flat-square)](https://scrutinizer-ci.com/g/Pehapkari/Pehapkari)
 [![Latest stable](https://img.shields.io/packagist/v/pehapkari/pehapkari.svg?style=flat-square)](https://packagist.org/packages/pehapkari/pehapkari)

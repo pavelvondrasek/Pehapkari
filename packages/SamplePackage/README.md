@@ -1,6 +1,6 @@
 # Sample Package
 
-[![Build Status](https://img.shields.io/travis/Pehapkari/SamplePackage.svg?style=flat-square)](https://travis-ci.org/Pehapkari/SamplePackage)
+[![Build Status](https://img.shields.io/travis/pehapkari/SamplePackage.svg?style=flat-square)](https://travis-ci.org/pehapkari/SamplePackage)
 [![Quality Score](https://img.shields.io/scrutinizer/g/Pehapkari/SamplePackage.svg?style=flat-square)](https://scrutinizer-ci.com/g/Pehapkari/SamplePackage)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Pehapkari/SamplePackage.svg?style=flat-square)](https://scrutinizer-ci.com/g/Pehapkari/SamplePackage)
 [![Downloads](https://img.shields.io/packagist/dt/pehapkari/sample-package.svg?style=flat-square)](https://packagist.org/packages/pehapkari/sample-package)
