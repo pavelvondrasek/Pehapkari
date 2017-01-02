@@ -1,0 +1,30 @@
+{
+    "name": "pehapkari/pehapkari",
+    "description": "Main repository for Pehapkari packages development.",
+    "license": "MIT",
+    "authors": [
+        { "name": "Pehapkari Community", "homepage": "https://github.com/pehapkari/Pehapkari/graphs/contributors" }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "tracy/tracy": "^2.4",
+        "phpunit/phpunit": "^5.7",
+        "symplify/coding-standard": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pehapkari\\SamplePackage\\": "packages/SamplePackage/src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Pehapkari\\SamplePackage\\Tests\\": "packages/SamplePackage/tests"
+        }
+    },
+    "scripts": {
+        "check-cs": "vendor/bin/symplify-cs check check packages/*/src packages/*/tests",
+        "fix-cs": "vendor/bin/symplify-cs fix packages/*/src packages/*/tests"
+    }
+}
