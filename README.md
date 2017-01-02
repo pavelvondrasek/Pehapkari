@@ -1,17 +1,17 @@
-# Zenify main repository
+# Pehapkari main repository
 
 This is developement repository = ALL PRs and ISSUEs HERE!
 
-[![Build Status](https://img.shields.io/travis/Zenify/Zenify.svg?style=flat-square)](https://travis-ci.org/Zenify/Zenify)
-[![Quality Score](https://img.shields.io/scrutinizer/g/Zenify/Zenify.svg?style=flat-square)](https://scrutinizer-ci.com/g/Zenify/Zenify)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Zenify/Zenify.svg?style=flat-square)](https://scrutinizer-ci.com/g/Zenify/Zenify)
-[![Latest stable](https://img.shields.io/packagist/v/zenify/zenify.svg?style=flat-square)](https://packagist.org/packages/zenify/zenify)
+[![Build Status](https://img.shields.io/travis/Pehapkari/Pehapkari.svg?style=flat-square)](https://travis-ci.org/Pehapkari/Pehapkari)
+[![Quality Score](https://img.shields.io/scrutinizer/g/Pehapkari/Pehapkari.svg?style=flat-square)](https://scrutinizer-ci.com/g/Pehapkari/Pehapkari)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/Pehapkari/Pehapkari.svg?style=flat-square)](https://scrutinizer-ci.com/g/Pehapkari/Pehapkari)
+[![Latest stable](https://img.shields.io/packagist/v/pehapkari/pehapkari.svg?style=flat-square)](https://packagist.org/packages/pehapkari/pehapkari)
 
 
 ## Install
 
 ```bash
-composer require zenify/zenify
+composer require pehapkari/pehapkari
 ```
 
 
@@ -28,7 +28,7 @@ vendor/bin/phpunit
 Rules are simple:
 
 - new feature needs tests
-- all tests must pass
-- 1 feature per PR
+- **all tests must pass**
+- **1 feature per PR**
 
 We would be happy to merge your feature then.
